@@ -1,3 +1,13 @@
+---
+title: Kutuliza
+emoji: 🏥
+colorFrom: red
+colorTo: green
+sdk: docker
+app_file: app.py
+pinned: false
+---
+
 # Kutuliza — AI-Powered Medical Triage Kiosk
 
 > **"Kutuliza"** is Luganda for *"to help / to relieve."*
