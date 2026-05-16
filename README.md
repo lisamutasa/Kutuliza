@@ -285,7 +285,7 @@ Same animation flow, but models a child with high fever, vomiting, and poor appe
 
 ## Deployed Link
 
-> 🌐 **Live demo:** `https://kutuliza.vercel.app`
+> 🌐 **Live demo:** `https://huggingface.co/spaces/Mutasa21/Kutuliza`
 >
 > _(Replace this URL with your actual deployed URL before submission. See the Deployment section below for step-by-step instructions.)_
 
